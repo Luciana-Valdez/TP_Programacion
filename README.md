@@ -59,6 +59,7 @@ Población de Italia: cincuenta millones
 Dato inválido. Intente nuevamente.
 Población de Italia: 58800000
 Superficie en km² de Italia: 301340
+'Italia' fue agregado correctamente.
 
 - EJEMPLO B: Actualización Comparativa de Datos (Opción 3)
 Al modificar un registro, el sistema normaliza la búsqueda del nombre e imprime un cuadro comparativo con el estado
@@ -96,14 +97,16 @@ Argentina              | 46,044,701     | 2,780,400        | America
 Armenia                | 2,777,970      | 29,743           | Asia        
 ___________________________________________________________________________
 
+
+
 4. Participación de los Integrantes
 El desarrollo de este proyecto integrador se distribuyó equitativamente entre las dos integrantes del equipo,
 asumiendo las siguientes responsabilidades de programación y diseño técnico.
 
 
+5. Link al video: 
+
+https://www.youtube.com/watch?v=vRA_szUlnl0
 
 
-
-
-'Italia' fue agregado correctamente.
 
